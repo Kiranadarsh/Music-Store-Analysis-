@@ -5,8 +5,6 @@
 
 ### About Project 👨‍💻
 
-- Govind Store wants to create an annual report over 2022 and understand the persona of customers where they want to make use of this data to grow their sales in upcoming year - 2023!
-  
 - I have used Postgre Sql- PGadmin4 to Load the Dataset - Perform the Operations like: 
 * Data Cleaning
 * Data Processing
